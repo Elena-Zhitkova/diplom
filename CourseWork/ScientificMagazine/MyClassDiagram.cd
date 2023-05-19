@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ScientificMagazine.Controllers.AboutUsController">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\AboutUsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.Upload">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAAAAAAIA=</HashCode>
+      <FileName>Controllers\ApplicationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.ApplicationController">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ApplicationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.ApplicationDetailsController">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAEgAAAAAgAAAAAAAAAAQAAAAAAAEAAAEAAAA=</HashCode>
+      <FileName>Controllers\ApplicationDetailsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.ArchiveController">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAGAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ArchiveController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.ArticleController">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ArticleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.HomeController">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.LoginController">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Controllers\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.RegistrationController">
+    <Position X="9" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAEAAA=</HashCode>
+      <FileName>Controllers\RegistrationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Controllers.SendApplicationController">
+    <Position X="7" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\SendApplicationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Data.ApplicationDbContext">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIABAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\ApplicationDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Enums.Messages">
+    <Position X="13" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>Enums\Messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Models.Application">
+    <Position X="11" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAEACBAAAAAgAAQkAQAAAAAAgAAAAAAEAgAAAA=</HashCode>
+      <FileName>Models\Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Models.Archive">
+    <Position X="14.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Archive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Models.Article">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAAAAAAAAAgAMAAABAAAAAAAACQAAEgAA=</HashCode>
+      <FileName>Models\Article.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Models.ErrorViewModel">
+    <Position X="14.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ErrorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Models.Status">
+    <Position X="13" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Models.User">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAACAAAAAAEQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Utils.CompatibilityExtensions">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\Antiplagiat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Utils.Diff">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAIAAAAAAABAAA=</HashCode>
+      <FileName>Utils\Antiplagiat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Utils.Patch">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkAAAAIAEAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\Antiplagiat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Utils.diff_match_patch">
+    <Position X="16.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFoMASAKAQAgOVkDQACgIgACAAIYgISBAAAQAOE=</HashCode>
+      <FileName>Utils\Antiplagiat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificMagazine.Utils.EmailSender">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAEAAAAAAAAAAAAgCAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\EmailSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
