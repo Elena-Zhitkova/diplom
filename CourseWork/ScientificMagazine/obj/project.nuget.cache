@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iVCoay4Ery+2awgj6GrmmkjMnSnoE+RiWCCd2gh/I2VoDUX11Kd8Kk+2eGLHAkUoA5giVIxzflcJmxbH/Dl1KQ==",
+  "dgSpecHash": "zmBPb3ep+m88tCTjYr7b2At3BE2s5sfz2aGUPtePGQMXmvvX7ATM+Vq4JJuhfhc8VsDrCVKDeHNneyifE9cFbA==",
   "success": true,
-  "projectFilePath": "D:\\ucheba\\4course\\8sem\\стпис\\coursework\\CourseWork\\ScientificMagazine\\ScientificMagazine.csproj",
+  "projectFilePath": "D:\\ucheba\\4course\\диплом\\git\\diplom\\CourseWork\\ScientificMagazine\\ScientificMagazine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qweqw\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\qweqw\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

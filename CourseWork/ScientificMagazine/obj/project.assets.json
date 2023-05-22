@@ -11468,11 +11468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ucheba\\4course\\8sem\\стпис\\coursework\\CourseWork\\ScientificMagazine\\ScientificMagazine.csproj",
+      "projectUniqueName": "D:\\ucheba\\4course\\диплом\\git\\diplom\\CourseWork\\ScientificMagazine\\ScientificMagazine.csproj",
       "projectName": "ScientificMagazine",
-      "projectPath": "D:\\ucheba\\4course\\8sem\\стпис\\coursework\\CourseWork\\ScientificMagazine\\ScientificMagazine.csproj",
+      "projectPath": "D:\\ucheba\\4course\\диплом\\git\\diplom\\CourseWork\\ScientificMagazine\\ScientificMagazine.csproj",
       "packagesPath": "C:\\Users\\qweqw\\.nuget\\packages\\",
-      "outputPath": "D:\\ucheba\\4course\\8sem\\стпис\\coursework\\CourseWork\\ScientificMagazine\\obj\\",
+      "outputPath": "D:\\ucheba\\4course\\диплом\\git\\diplom\\CourseWork\\ScientificMagazine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\qweqw\\AppData\\Roaming\\NuGet\\NuGet.Config",
